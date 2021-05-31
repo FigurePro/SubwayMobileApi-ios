@@ -1,0 +1,16 @@
+Host: rewards.subway.co.uk
+Accept: application/json
+longitude: 0.0
+moduleCode: SUB_STORMBORN
+latitude: 0.0
+appVersion: 2.2
+Accept-Language: fr
+Accept-Encoding: gzip, deflate, br
+platform: IOS
+Cache-Control: no-cache
+deviceID: CCAC62DF-1268-48F1-851D-E9F40B56A559
+Content-Length: 59
+User-Agent: Subway%C2%AE/64 CFNetwork/1240.0.4 Darwin/20.5.0
+Connection: keep-alive
+Content-Type: application/json
+Cookie: _ga=GA1.3.1835633423.1622427349; _gid=GA1.3.1670907581.1622427349
